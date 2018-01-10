@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short Bio"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Short Bio
 
 Work experience
 ======
