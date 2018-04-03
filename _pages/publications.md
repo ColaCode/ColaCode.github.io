@@ -16,3 +16,6 @@ author_profile: true
 2. Longbin Lai, Lu Qin, Xuemin Lin, Ying Zhang, Lijun Chang, and Shiyu Yang. “Scalable Distributed Subgraph Enumeration”, in PVLDB 2017. 
 3. Shiyu Yang, Muhammad Aamir Cheema, Xuemin Lin, and Wei Wang. “Reverse k Nearest Neighbors Query Processing: Experiments and Analysis”, in PVLDB 2015. 
 4. Shiyu Yang, Muhammad Aamir Cheema, Xuemin Lin, and Ying Zhang. “SLICE: Reviving Regions-Based Pruning for Reverse k Nearest Neighbors Queries”, in ICDE 2014. 
+5. Peihao Tong, Junjie Yao, Liping Wang, and Shiyu Yang. “Comprehensive Graph and Content Feature based User Profiling”, in ADC 2016.
+6. Chen Chen, Wei Wang, Xiaoyang Wang, and Shiyu Yang. “Effective Order Preserving Estimation Method”, in ADC 2016.
+7. Xiang Wang, Shiyu Yang, and Ying Zhang “SKPS: Towards Efficient Processing of Spatial-keyword Publish/Subscribe System”, in ADC 2016. 
