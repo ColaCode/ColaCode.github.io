@@ -12,3 +12,6 @@ I am an Associate Professor at School of Computer Science and Software Engineeri
 
 My current research focuses on big data processing and analysis, specifically on spatial data, graphs and social networks. 
  
+## News
+### New homepage is online 2018/1/10
+My new homepage is online today and still under construction for most sections. Welcome and you can check back later for more infromation.
